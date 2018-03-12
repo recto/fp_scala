@@ -1,2 +1,2 @@
-# fp_scala
-Coursera - Functional Programming in Scala
+# Coursera - Functional Programming in Scala : Example
+First example.
